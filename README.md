@@ -26,6 +26,7 @@ examples/    # runnable examples demonstrating usage
 tests/       # unit tests #TODO
 benchmarks/  # performance benchmarks #TODO
 common/      # shared utilities and helpers
+solutions/   # a collection of concurrency problems and their implementations.
 ```
 
 
