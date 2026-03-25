@@ -1,3 +1,8 @@
+<div align="center">
+<img src="./static/gophers_camp.png" >
+</div>
+
+---
 # Bounded Parallel Processing with Timeout
 
 ## Overview
