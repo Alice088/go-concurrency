@@ -1,3 +1,8 @@
+<div align="center">
+<img src="./static/gophers_camp.png" >
+</div>
+
+---
 # Concurrency Patterns
 
 This repository contains my implementations of concurrency patterns along with practical examples.
