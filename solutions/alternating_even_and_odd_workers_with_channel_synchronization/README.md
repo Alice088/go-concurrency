@@ -82,3 +82,19 @@ This implementation intentionally exposes edge cases:
 * absence of explicit worker pool control despite configuration hints
 
 These aspects make it suitable for analysis, debugging, and improvement exercises in concurrent Go systems.
+
+### Result
+````
+wEven: write: 1 
+wOdd: write: 2
+wEven: write: 3
+wOdd: write: 4
+wEven: write: 5
+wOdd: write: 6
+wEven: write: 7
+wOdd: write: 8
+wEven: write: 9
+wOdd: write: 10
+[1 2 3 4 5 6 7 8 9 10]
+164.175µs
+````
